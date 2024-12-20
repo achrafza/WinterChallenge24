@@ -112,7 +112,7 @@ int main()
                 j++;
                 cout << "GROW " << 5 << " " << j+1<< " " << 3 << " HARVESTER" << endl;
             }
-            // try all possible four direction if an enemie's organ is there and then put a tentacle to slay the bitch
+            // try all possible four direction if an enemie's organ is there and then put a tentacle to slay the enemy
             /*cerr << isprot(j+4,2,tentacles)<< endl;
             if (!isprot(j + 4,2,tentacles)) cout << "GROW " << 1 <<" " << j+1 << " " <<  2 << " TENTACLE" << " S"<<endl;
             else cout << "GROW " << 1 <<" " << j+1 << " " <<  2 << " BASIC" <<endl;
